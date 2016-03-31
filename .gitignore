@@ -2,4 +2,4 @@
 *.db
 .bundle
 pkg
-taps-*.gem
+tapsicle-*.gem
