@@ -1,7 +1,7 @@
 = Tapsicle -- simple database import/export app
 
 A simple database agnostic import/export app to transfer data to/from a remote database.  
-By no means did we write this code.  This is a fork from [https://github.com/wijet/taps](wijet/taps) which is in turn a fork of [https://github.com/ricardochimal/taps](ricardochimal/taps).  Both repos are no longer maintained.  Feel free to make any pull-requests and I'll try to keep this up to date.
+By no means did we write this code.  This is a fork from {wijet/taps}[https://github.com/wijet/taps] which is in turn a fork of {ricardochimal/taps}[https://github.com/ricardochimal/taps].  Both repos are no longer maintained.  Feel free to make any pull-requests and I'll try to keep this up to date.
 
 == Installation
 
